@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/background1.jpg</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/bg_music.mp3</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/character1.png</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/character1_reversed.png</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/character2.png</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/character2_reversed.png</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/enemy1.png</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/enemy1_reversed.png</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/hit.wav</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/shuriken0.gif</File>
+    <File>C:/Users/MyPC/Desktop/Arcane/Game1/Content/shuriken1.gif</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/STUDENTE/Desktop/SUL DESKTOP/4E/Arcane/Game1/Content/gameFont.spritefont</SourceFile>
+  <SourceTime>2014-06-14T09:28:24+02:00</SourceTime>
+  <DestFile>C:/Users/STUDENTE/Desktop/SUL DESKTOP/4E/Arcane/Game1/Content/bin/Windows/gameFont.xnb</DestFile>
+  <DestTime>2019-02-15T09:40:34.9360652+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

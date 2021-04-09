@@ -1,0 +1,75 @@
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\obj\x86\Debug\Game1.exe
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\ball.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\bg_music.wma
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\bg_music.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\hit.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\player1.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\player2.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\character1.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\background1.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\character2.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\enemy1.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\character1_reversed.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\character2_reversed.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\gameFont.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\shuriken0.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\shuriken1.xnb
+C:\Users\STUDENTE\Desktop\SUL DESKTOP\4E\Arcane\Game1\bin\Windows\x86\Debug\Content\enemy1_reversed.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\background1.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\bg_music.wma
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\bg_music.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\character1.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\character1_reversed.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\character2.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\character2_reversed.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\enemy1.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\enemy1_reversed.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\hit.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\shuriken0.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Content\shuriken1.xnb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Game1.exe
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\Game1.pdb
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\MyPC\Desktop\Arcane\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\MyPC\Desktop\Arcane\Game1\obj\x86\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\MyPC\Desktop\Arcane\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\Arcane\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
+C:\Users\MyPC\Desktop\Arcane\Game1\obj\x86\Debug\Game1.exe
+C:\Users\MyPC\Desktop\Arcane\Game1\obj\x86\Debug\Game1.pdb

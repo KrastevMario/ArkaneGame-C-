@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/background1.jpg","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/background1.xnb","TextureProcessor","Texture2DContent",202185,3868885,0.3131855
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/bg_music.mp3","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/bg_music.xnb","SongProcessor","SongContent",865331,126,0.955441
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/character1.png","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/character1.xnb","TextureProcessor","Texture2DContent",13931,31513,0.0189476
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/character1_reversed.png","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/character1_reversed.xnb","TextureProcessor","Texture2DContent",13993,31513,0.0169549
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/character2.png","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/character2.xnb","TextureProcessor","Texture2DContent",20345,44613,0.0169513
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/character2_reversed.png","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/character2_reversed.xnb","TextureProcessor","Texture2DContent",20218,44613,0.0179516
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/enemy1.png","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/enemy1.xnb","TextureProcessor","Texture2DContent",45178,130105,0.0239578
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/enemy1_reversed.png","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/enemy1_reversed.xnb","TextureProcessor","Texture2DContent",44708,130105,0.2283899
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/hit.wav","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/hit.xnb","SoundEffectProcessor","SoundEffectContent",52792,52853,0.8148203
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/shuriken0.gif","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/shuriken0.xnb","TextureProcessor","Texture2DContent",639,8549,0.0598325
+"C:/Users/MyPC/Desktop/Arcane/Game1/Content/shuriken1.gif","C:/Users/MyPC/Desktop/Arcane/Game1/Content/bin/Windows/shuriken1.xnb","TextureProcessor","Texture2DContent",1099,8549,0.0259239

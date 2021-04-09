@@ -1,0 +1,5 @@
+go to the path: "..\ArkaneGame\bin\Windows\x86\Debug" and start the file named "Game1.exe".
+ArkaneGame -> bin -> Windows -> x86 -> Debug (folders)
+Enjoy the game.
+
+used MonoGame for the developping.
